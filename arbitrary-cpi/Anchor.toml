@@ -1,14 +1,14 @@
 [toolchain]
-anchor_version = "0.30.1"
-solana_version = "1.18.18"
+anchor_version = "0.31.1"
+solana_version = "2.2.12"
 
 [features]
 resolution = true
 skip-lint = false
 
 [programs.localnet]
-arbitrary-cpi-expected = "9oVc41qRxoJ2HE6QaDm7tYZFYPXr56A5vaqrscQ9UEMj"
-arbitrary-cpi-hacked = "7SCMLGAp2THex6joRA6gyXxH3b8aTQVFrR5wCC9HnCj8"
+arbitrary-cpi-expected = "4XApRiRJQ2GEVLGCsmrPjDWgakyMWxCJ9pYtEgEEvcFp"
+arbitrary-cpi-hacked = "2g2FFyS69XPCNxZ6ouKRQB2jWSjgAiG2LVCfd9J8co4d"
 arbitrary_cpi = "44C7R1FuGPwn559MhjPBCV5sZjibH5NvByF5KPVuGYXn"
 
 [registry]

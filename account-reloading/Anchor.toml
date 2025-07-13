@@ -1,6 +1,6 @@
 [toolchain]
-anchor_version = "0.30.1"
-solana_version = "1.18.18"
+anchor_version = "0.31.1"
+solana_version = "2.2.12"
 
 [features]
 resolution = false
@@ -8,7 +8,7 @@ skip-lint = false
 
 [programs.localnet]
 account_reloading = "FkeyV5F9SVuq6hbMqtxrHqX1MDHrwQ2jsNug1MaBN9jf"
-update-account = "HPd29vvK67eTWNwf6SadKuXMT3LfhWN8c6dYEGFxAMj3"
+update-account = "FkupZMtPZnEQQBybKwU5DMiALS9D7G7VZxfKDJBojUvb"
 
 [registry]
 url = "https://api.apr.dev"
